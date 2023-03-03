@@ -1,2 +1,6 @@
-export default () => new Response("Updated hello!");
+export default () =>{
+    
+    
+    return new Response("Updated hello!");
+} 
 
